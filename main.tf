@@ -1,8 +1,8 @@
 # =============================================================
 # VDI Migration Playbook - AWS EUC Infrastructure
 # Author : Shubham Rastogi
-# Covers AWS WorkSpaces & AppStream 2.0
-# Based on Citrix → AWS migration at Avantor (100+ apps migrated)
+# Covers AWS WorkSpaces & AWS WorkSpaces Applications (formerly AWS AppStream 2.0)
+# Based on Citrix → AWS migration (100+ apps migrated)
 # =============================================================
 
 terraform {
